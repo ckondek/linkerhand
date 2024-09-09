@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+    color: white;
+
+
+}
+
+
+h1{
+
+}
+
+h2{
+
+}
+
+h3{
+
+}
+
+h4{     /*caption*/
+    font-size: 1em;
+    font-style: italic;
+}
+
+
+div.flex-container{
+    display:flex;
+    flex-wrap: wrap;
+    
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}
+
+img.small{
+    width: 400px;
+}
+
+img.medium{
+    width: 900px;
+}
+
+img.large{
+    width: 1200px;
+}
+
+
+
